@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Alantitus
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on ml
-- 📫 How to reach me ...
+- 🖥️ Passionate web developer on a mission to craft seamless digital experiences. Proficient in front-end technologies like HTML, CSS, and JavaScript. Back-end wizard with expertise in Node.js. Continuous learner, always exploring new ways to innovate in the ever-evolving web landscape. Let's code the future together! 🚀 #WebDev #JavaScriptEnthusiast
 
 <!---
 Alantitus/Alantitus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
