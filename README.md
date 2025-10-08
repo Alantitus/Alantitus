@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alantitus
-- 🖥️ Web developer on a mission to craft digital experiences. Proficient in front-end technologies like React & Next. Let's code the future together! 🚀 
+- 🖥️ Software Engineer. Proficient in front-end technologies like React & Next.
 
 <!---
 Alantitus/Alantitus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
